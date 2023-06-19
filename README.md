@@ -9,6 +9,7 @@ You will need to provide a Google Street View API Key (just paste it into the da
 Run guimanager.py to open the program or watch the demo video to see it in action.
 
 Should work with python 3.10 and the listed requirements. However, if you want to use a different cuda version for example, you have to make sure you install the right packages. Talking about cuda, while it is possible to run the program without graphics card, using one improves performance significantly.
+To install, just run: pip install -r requirements.txt 
 
 Requirements:
 opencv-contrib-python==4.5.4.60
