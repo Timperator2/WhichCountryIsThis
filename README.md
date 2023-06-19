@@ -2,6 +2,8 @@
 
 Official Git Repository for "Which Country is This"
 
+Watch the AI guess location based on Google Street View imagery or challenge the system in game mode. 
+
 You will need to provide a Google Street View API Key (just paste it into the datamanager.py file)
 
 Run guimanager.py to open the program or watch the demo video to see it in action.
